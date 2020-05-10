@@ -22,7 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * Redis
+
 redis-server, redis-cli
-set <key>-<valor>
-get <key>
-del <key>
+
+
+set key-valor
+
+get key
+
+del key
