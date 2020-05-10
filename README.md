@@ -23,6 +23,6 @@ Things you may want to cover:
 
 * Redis
 redis-server, redis-cli
-set <key> <valor>
+set <key>-<valor>
 get <key>
 del <key>
